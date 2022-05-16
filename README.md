@@ -17,19 +17,19 @@
 </ul>
 <h3>Project Documents</h3>
 <ul>
-  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/Project_Proposal.pdf">Assignment 1 Report : Project Proposal</a></li>
-  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_Pentad_X5_Presentation.pdf">Presentation of Project Proposal</a></li>
-  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_ASSIGNMENT2_REPORT.pdf">Assignment 2 Report : Conceptual Architecture</a></li>
-  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_PentadX5_A2.pdf">Presentation of Conceptual Architecture</a></li>
-  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/Pentad-X5 Assignment 3 - Report Document.pdf">Assignment 3 Report : Concrete Architecture</a></li>
-  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_PentadX5_A3.pdf">Presentation of Concrete Architecture</a></li></a></li>
-  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/EECS_4315_PentadX5_Assignment4_Presentaion.pdf">Presentation of the Enhanced Architecture</a></li>
-  <li><a href="https://github.com/arifrahmanca/Smart_Employee_Management_System/blob/main/Documentations/Pentad-X5-Assingment4-Report.pdf">Assignment 4 Report : Enhanced Architecture (Self-healing loop)</a></li>
+  <li><a href="https://github.com/JaiveerS/Smart_Employee_Management_System/blob/main/Documentations/Project_Proposal.pdf">Assignment 1 Report : Project Proposal</a></li>
+  <li><a href="https://github.com/JaiveerS/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_Pentad_X5_Presentation.pdf">Presentation of Project Proposal</a></li>
+  <li><a href="https://github.com/JaiveerS/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_ASSIGNMENT2_REPORT.pdf">Assignment 2 Report : Conceptual Architecture</a></li>
+  <li><a href="https://github.com/JaiveerSa/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_PentadX5_A2.pdf">Presentation of Conceptual Architecture</a></li>
+  <li><a href="https://github.com/JaiveerS/Smart_Employee_Management_System/blob/main/Documentations/Pentad-X5 Assignment 3 - Report Document.pdf">Assignment 3 Report : Concrete Architecture</a></li>
+  <li><a href="https://github.com/JaiveerS/Smart_Employee_Management_System/blob/main/Documentations/EECS_4314_PentadX5_A3.pdf">Presentation of Concrete Architecture</a></li></a></li>
+  <li><a href="https://github.com/JaiveerS/Smart_Employee_Management_System/blob/main/Documentations/EECS_4315_PentadX5_Assignment4_Presentaion.pdf">Presentation of the Enhanced Architecture</a></li>
+  <li><a href="https://github.com/JaiveerS/Smart_Employee_Management_System/blob/main/Documentations/Pentad-X5-Assingment4-Report.pdf">Assignment 4 Report : Enhanced Architecture (Self-healing loop)</a></li>
 </ul>
 <h3>Related Links</h3>
 <ul>
-  <li><a href="http://pentad-x5.unaux.com/">Pentad-X5 Website</a></li>
-  <li><a href="https://github.com/KarmitP98/Employee-Managment" target="_blank">Source Codes</a></li>
+  <li><a href="https://employee-managment-f5252.web.app/login/">Prototype</a></li>
+  <li><a href="https://github.com/KarmitP98/Employee-Managment" target="_blank">Prototype Source Codes</a></li>
   <li><a href="https://drive.google.com/file/d/16kpOCEQ6O5p_fWcYAQs6VrRDfTHlB1Pp/view" target="_blank">Video Presentation of Project Proposal</a></li>
   <li><a href="https://www.youtube.com/embed/XK9IIYWnpIo" target="_blank">Video Presentation of Conceptual Architecture</a></li>
   <li><a href="https://www.youtube.com/embed/kAwCXQfzhJE" target="_blank">Video Presentation of Concrete Architecture</a></li>
